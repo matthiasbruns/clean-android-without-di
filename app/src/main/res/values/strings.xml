@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CleanAndroidWithoutDI</string>
+    <string name="title_feauture_characters">Characters Feature</string>
+</resources>
